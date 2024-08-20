@@ -1,7 +1,7 @@
 👋 Hi, I’m @SeshaNarayan
 👀 I’m interested in cybersecurity and business information systems.
-🌱 I’m currently expanding my knowledge in cybersecurity and enhancing my skills in the field.
-💞️ I’m looking to collaborate on cybersecurity projects and initiatives.
+🌱 I’m currently expanding my knowledge in cybersecurity and enhancing my skills in the field. <br>
+ I’m looking to collaborate on cybersecurity projects and initiatives.
 📫 How to reach me: [![LinkedIn](https://img.icons8.com/ios-filled/50/linkedin.png)](https://www.linkedin.com/in/seshanamuduri/)
 
 😄 Pronouns: He/Him
